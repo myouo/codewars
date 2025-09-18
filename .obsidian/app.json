@@ -1,1 +1,6 @@
-{}
+{
+  "showLineNumber": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "photos"
+}
