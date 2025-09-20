@@ -179,9 +179,10 @@
   },
   "active": "529b80124ae92c66",
   "lastOpenFiles": [
+    "interview/README.md",
+    "notes/KList.md",
     "notes/20250920指针与const的搭配.md",
     "notes/20250920static关键字.md",
-    "interview/README.md",
     "notes/20250918友元(函数 or 类)及其在重载中的应用.md",
     "README.md",
     "interview/STL/README.md",
@@ -221,7 +222,6 @@
     "interview/DesignPattern/README.md",
     "notes/20250918柯里化与链式调用.md",
     "notes/20250918多重继承产生的菱形问题以及虚继承.md",
-    "notes/KList.md",
     "创建链接.md",
     "欢迎.md",
     "notes/20250918类继承、虚函数以及构造顺序.md"
