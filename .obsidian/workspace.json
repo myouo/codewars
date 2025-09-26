@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/20250920static关键字.md",
+                "file": "notes/KList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250920static关键字"
+              "title": "KList"
+            }
+          },
+          {
+            "id": "9dd583e28afb0524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/20250926移动构造.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250926移动构造"
+            }
+          },
+          {
+            "id": "719cd4ca883510f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/20250926关键字noexcept.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250926关键字noexcept"
+            }
+          },
+          {
+            "id": "020ba6d62f078671",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/20250918柯里化与链式调用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250918柯里化与链式调用"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/20250926关键字noexcept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "20250926关键字noexcept 的反向链接列表"
             }
           },
           {
@@ -177,12 +221,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "529b80124ae92c66",
+  "active": "719cd4ca883510f7",
   "lastOpenFiles": [
-    "interview/README.md",
+    "notes/20250926移动构造.md",
+    "notes/20250926关键字noexcept.md",
     "notes/KList.md",
-    "notes/20250920指针与const的搭配.md",
+    "interview/README.md",
+    "notes/20250918柯里化与链式调用.md",
+    "notes/recover.md",
     "notes/20250920static关键字.md",
+    "notes/·.md",
+    "notes/20250920指针与const的搭配.md",
     "notes/20250918友元(函数 or 类)及其在重载中的应用.md",
     "README.md",
     "interview/STL/README.md",
@@ -219,11 +268,6 @@
     "interview/Problems/KnapsackProblem/README.md",
     "interview/Problems/ChessboardCoverageProblem/README.md",
     "interview/DesignPattern/SingletonPattern/README.md",
-    "interview/DesignPattern/README.md",
-    "notes/20250918柯里化与链式调用.md",
-    "notes/20250918多重继承产生的菱形问题以及虚继承.md",
-    "创建链接.md",
-    "欢迎.md",
-    "notes/20250918类继承、虚函数以及构造顺序.md"
+    "interview/DesignPattern/README.md"
   ]
 }
